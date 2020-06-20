@@ -1,0 +1,12 @@
+name: learnnflfastr
+title: learnnflfastr
+username:
+account: tanho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2480804
+bundleId: 3294578
+url: https://tanho.shinyapps.io/learnnflfastr/
+when: 1592627545.87414
+asMultiple: FALSE
+asStatic: FALSE

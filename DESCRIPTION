@@ -1,0 +1,31 @@
+Type: Package
+Package: learnnflfastr
+Title: LearnR Tutorial for nflfastR
+Version: 0.0.1.1
+Authors@R: 
+    c(person(given = "Tan",
+             family = "Ho",
+             role = c("aut", "cre"),
+             email = "tan@tanho.ca"),
+      person(given = "Ben",
+             family = "Baldwin",
+             role = "aut"),
+      person(given = "Sebastian",
+             family = "Carl",
+             role = "aut"))
+Description: An adaptation of Ben Baldwin's "Beginner's
+    Guide to nflfastR" document as a Shiny/learnr lesson.
+License: MIT + file LICENSE
+Imports:
+    ggimage (>= 0.2.5),
+    ggrepel (>= 0.8.0),
+    learnr (>= 0.10.0),
+    nflfastR (>= 2.0.0),
+    tidyverse (>= 1.2.0)
+Suggests:
+    arrow (>= 0.17.0)
+Remotes: 
+    mrcaseb/nflfastr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
